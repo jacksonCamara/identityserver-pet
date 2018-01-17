@@ -1,0 +1,12 @@
+== Bibliotecas ==
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL (Conexão com o banco de dados)
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore (Usar o Identity como Contexto)
+dotnet add package IdentityServer4.AccessTokenValidation (Utilizar o IdentityServer4, configuração startup)
+
+== Arquivo .csproj ==
+<!-- Tem que inserir para funcionar o comando dotnet ef -->
+<DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+
+== Migrations ==
+dotnet ef migrations add InitialCreate
+dotnet ef database update

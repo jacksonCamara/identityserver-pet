@@ -1,0 +1,40 @@
+/Users/jackson/Desktop/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.deps.json
+/Users/jackson/Desktop/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.runtimeconfig.json
+/Users/jackson/Desktop/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.runtimeconfig.dev.json
+/Users/jackson/Desktop/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.dll
+/Users/jackson/Desktop/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.pdb
+/Users/jackson/Desktop/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.csproj.CoreCompileInputs.cache
+/Users/jackson/Desktop/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.AssemblyInfoInputs.cache
+/Users/jackson/Desktop/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.AssemblyInfo.cs
+/Users/jackson/Desktop/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.dll
+/Users/jackson/Desktop/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.pdb
+/Users/jackson/Desktop/Autenticacao/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.deps.json
+/Users/jackson/Desktop/Autenticacao/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.runtimeconfig.json
+/Users/jackson/Desktop/Autenticacao/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.runtimeconfig.dev.json
+/Users/jackson/Desktop/Autenticacao/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.dll
+/Users/jackson/Desktop/Autenticacao/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.pdb
+/Users/jackson/Desktop/Autenticacao/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.csproj.CoreCompileInputs.cache
+/Users/jackson/Desktop/Autenticacao/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.AssemblyInfoInputs.cache
+/Users/jackson/Desktop/Autenticacao/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.AssemblyInfo.cs
+/Users/jackson/Desktop/Autenticacao/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.dll
+/Users/jackson/Desktop/Autenticacao/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.pdb
+/Users/jackson/Desktop/IdentityServer1 2/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.deps.json
+/Users/jackson/Desktop/IdentityServer1 2/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.runtimeconfig.json
+/Users/jackson/Desktop/IdentityServer1 2/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.runtimeconfig.dev.json
+/Users/jackson/Desktop/IdentityServer1 2/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.dll
+/Users/jackson/Desktop/IdentityServer1 2/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.pdb
+/Users/jackson/Desktop/IdentityServer1 2/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.csproj.CoreCompileInputs.cache
+/Users/jackson/Desktop/IdentityServer1 2/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.AssemblyInfoInputs.cache
+/Users/jackson/Desktop/IdentityServer1 2/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.AssemblyInfo.cs
+/Users/jackson/Desktop/IdentityServer1 2/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.dll
+/Users/jackson/Desktop/IdentityServer1 2/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.pdb
+/Users/jackson/Desktop/Authentication/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.deps.json
+/Users/jackson/Desktop/Authentication/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.runtimeconfig.json
+/Users/jackson/Desktop/Authentication/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.runtimeconfig.dev.json
+/Users/jackson/Desktop/Authentication/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.dll
+/Users/jackson/Desktop/Authentication/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.pdb
+/Users/jackson/Desktop/Authentication/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.csproj.CoreCompileInputs.cache
+/Users/jackson/Desktop/Authentication/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.AssemblyInfoInputs.cache
+/Users/jackson/Desktop/Authentication/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.AssemblyInfo.cs
+/Users/jackson/Desktop/Authentication/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.dll
+/Users/jackson/Desktop/Authentication/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.pdb

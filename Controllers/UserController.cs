@@ -32,7 +32,7 @@ namespace IdentityServer.Controllers
             var userClaims = await UserManager.GetClaimsAsync(idUser);
             var userUsuario = await UserManager.GetUserIdAsync(idUser);
             var roles = await UserManager.GetRolesAsync(idUser);
-            var teste = await UserManager.GetRolesAsync(idUser);
+            var testea = await UserManager.GetRolesAsync(idUser);
             return Ok(roles);
         }
 
